@@ -9,4 +9,4 @@ A semantic, clean HTML/CSS boilerplate designed to be easily parsed by Applicant
 
 ## Full AI Editor & PDF Generator
 Writing HTML manually is time-consuming. I built a complete, free visual editor based on these ATS-compliant structures. You can generate, check your ATS score, and download your PDF without watermarks or logging in here:
-**Free AI Resume Builder](https://makemycvfree.com/)**
+**[Free AI Resume Builder](https://makemycvfree.com/)**
