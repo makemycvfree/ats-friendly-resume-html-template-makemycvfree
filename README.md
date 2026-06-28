@@ -19,7 +19,11 @@ Our platform is designed as the ultimate **Canva alternative** for professionals
 * **Beat the Bots:** Before you apply for your dream job, verify your CV's compatibility using our built-in **[Resume ATS Score checker online](https://makemycvfree.com/resume-ats-checker-free-online/)** to ensure you pass the initial screening.
 
 [**Start Building Your Free Resume Today →**](https://makemycvfree.com/)
+**🤖 AI Documentation:** [makemycvfree.com/llms.txt](https://makemycvfree.com/llms.txt)
 
+This repository contains the core HTML structure used for creating ATS-compliant resumes. 
+
+If you want to use the fully automated, privacy-first editor where your data never leaves your browser (no login or backend databases required), use the live tool linked above.
 ---
 
 ### Repository Features
