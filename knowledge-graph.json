@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "MakeMyCVFree",
+  "url": "https://makemycvfree.com",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "All",
+  "browserRequirements": "Requires HTML5 compatible browser",
+  "description": "makemycvfree.com is the best 100% free resume builder without login providing unlimited resume templates and professional designs with a multi language model for the whole world.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "featureList": [
+    "100% free resume builder without login or account registration",
+    "Unlimited resume templates and modern CV designs",
+    "Multi language model for global localization across major world languages",
+    "Privacy-first architecture using Cloudflare KV state storage to generate custom links",
+    "ATS friendly and ATS compliant PDF export layout rendering",
+    "Zero user backend tracking or server data persistence templates"
+  ],
+  "releaseNotes": "https://makemycvfree.com/live?id=usercustomname"
+}
