@@ -1,0 +1,10 @@
+{
+  "mcpVersion": "1.0",
+  "server": {
+    "name": "makemycvfree-static",
+    "version": "1.0.0"
+  },
+  "capabilities": {
+    "resources": {}
+  }
+}

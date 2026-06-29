@@ -1,0 +1,15 @@
+{
+  "version": "2.1",
+  "website": {
+    "url": "https://makemycvfree.com",
+    "name": "MakeMyCVFree-AI Resume Builder",
+    "description": "makemycvfree.com is the best 100% free ai resume builder without login providing unlimited resume templates and professional designs with a multi language model for the whole world."
+  },
+  "endpoints": {
+    "knowledgeGraph": "/knowledge-graph.json",
+    "contextDocument": "/llms.txt",
+    "mcp": "/mcp.json",
+    "agents": "/agents.json",
+    "aiSitemap": "/ai-sitemap.xml"
+  }
+}
